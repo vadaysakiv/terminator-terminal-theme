@@ -1,0 +1,40 @@
+[global_config]
+  suppress_multiple_term_dialog = True
+[keybindings]
+  go_up = <Alt>w
+  go_down = <Alt>s
+  go_left = <Alt>a
+  go_right = <Alt>d
+  split_auto = <Primary>n
+  split_horiz = <Primary>o
+  split_vert = <Primary>k
+  close_term = <Alt>c
+  next_tab = <Alt>e
+  prev_tab = <Alt>q
+[profiles]
+  [[default]]
+    background_color = "#22132f"
+    background_darkness = 0.99
+    background_type = image
+    background_image = /home/kali/Desktop/studio-background-concept-abstract-empty-light-gradient-purple-studio-room-background-product.jpg
+    cursor_shape = ibeam
+    cursor_fg_color = "#22132f"
+    cursor_bg_color = "#dc8add"
+    cursor_color_default = False
+    font = Droid Sans Fallback Bold 10
+    foreground_color = "#9141ac"
+    palette = "#000000:#c54545:#4e9a06:#c4a000:#c4a000:#75507b:#06989a:#d3d7cf:#3465a4:#ef2929:#000000:#fce94f:#729fcf:#ad7fa8:#34e2e2:#eeeeec"
+    title_hide_sizetext = True
+    title_transmit_fg_color = "#000000"
+    title_transmit_bg_color = "#dc8add"
+    title_receive_bg_color = "#1a5fb4"
+    title_inactive_bg_color = "#3d3846"
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]
