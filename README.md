@@ -20,3 +20,4 @@ create horizontal subterminal: ctrl + o
 ######
 ![image](https://github.com/vadaysakiv/terminator-terminal-theme/assets/90182273/eee83372-f092-489b-bf24-5287b5e98dc8)
 ![image](https://github.com/vadaysakiv/terminator-terminal-theme/assets/90182273/943f34c2-6120-4072-850d-cbab8b501175)
+![image](https://github.com/vadaysakiv/terminator-terminal-theme/assets/90182273/86d6d5c2-690a-4ed8-bc4f-eb25597bda6e)
